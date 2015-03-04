@@ -1,4 +1,24 @@
 item.ItemCopperIngot.name=Copper Ingot
+item.ItemCopperGravel.name=Copper Gravel
+item.ItemCopperDust.name=Copper Dust
+item.ItemDirtyCopperDust.name=Dirty Copper Dust
 item.ItemTinIngot.name=Tin Ingot
+item.ItemTinGravel.name=Tin Gravel
+item.ItemDirtyTinDust.name=Dirty Tin Dust
+item.ItemTinDust.name=Tin Dust
 item.ItemLeadIngot.name=Lead Ingot
+item.ItemLeadGravel.name=Lead Gravel
+item.ItemDirtyLeadDust.name=Dirty Lead Dust
+item.ItemLeadDust.name=Lead Dust
 item.ItemSilverIngot.name=Silver Ingot
+item.ItemSilverGravel.name=Silver Gravel
+item.ItemDirtySilverDust.name=Dirty Silver Dust
+item.ItemSilverDust.name=Silver Dust
+item.ItemIronGravel.name=Iron Gravel
+item.ItemDirtyIronDust.name=Dirty Item Dust
+item.ItemIronDust.name=Iron Dust
+item.ItemGoldGravel.name=Gold Gravel
+item.ItemDirtyGoldDust.name=Dirty Gold dust
+item.ItemGoldDust.name=Gold Dust
+
+tile.BlockCopperBlock.name=Copper Block
